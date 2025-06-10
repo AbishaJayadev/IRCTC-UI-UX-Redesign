@@ -10,6 +10,6 @@ The goal of this redesign is to:
 - Modernize the look and feel of the IRCTC app
 - Enhance usability and accessibility for all users
 
-## 🎨 Figma Prototype
+## 🎨 Figma Link
 
 🔗 https://www.figma.com/design/7lDuiq8Js5n3EDSTRV2Z1x/Untitled?node-id=0-1&t=kxhHh2UJaUs3l9dX-1
